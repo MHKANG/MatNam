@@ -76,9 +76,7 @@
 
 ## Gantt Chart
 
-```
-mermaid
-
+```mermaid
 gantt
     dateFormat  YYYY-MM-DD
     title       Dinning&ssul

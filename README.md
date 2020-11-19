@@ -10,11 +10,12 @@
 <div>Front & Back</div>
    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white" />
    <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white" />
-   <img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=white" />
-   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white" />
-   <img alt="HTML5" src="https://img.shields.io/badge/html5-E34F26?logo=HTML5&logoColor=white" />
-   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white" />
-   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white" />
+    <img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=white" />
+    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" />
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white" />
+    <img alt="HTML5" src="https://img.shields.io/badge/html5-E34F26?logo=HTML5&logoColor=white" />
+    <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white" />
 </p>
 <p>
 <div>Env</div>
